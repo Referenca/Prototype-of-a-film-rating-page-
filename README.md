@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Referenca
-- 👀 I’m interested in ...coding, cinematography and cooking
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... anything TBH
-- 📫 How to reach me ... email?
+- 👀 I’m interested in ...coding, cinematography and cooking.
+- 🌱 I’m currently learning ... JavaScript, SQL, C#, HTML, CSS
+- 💞️ I’m looking to collaborate on ... Projects and progression.
+- 📫 How to reach me ... email.
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...elephant's memory
+- ⚡ Fun fact: ...elephant's memory, References.
 - 
 
 <!---
